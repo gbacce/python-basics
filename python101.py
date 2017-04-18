@@ -1,5 +1,5 @@
 # print "Hello, world!"
-
+# Print two different things on the same line.
 print ("Hello world!", "Again")
 
 # This won't work!!
