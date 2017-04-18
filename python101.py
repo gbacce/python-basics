@@ -8,7 +8,6 @@ print ("Hello world!", "Again")
 # lines of a sentence.
 # Please print.
 
-
 # This will...
 print """This
 will ignore the new lines
